@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I am Rambabu Patidar.
-From[Jabalpur Engineering College](https://www.jecjabalpur.ac.in/), persuing BTech Computer Science Engineering.
-I Love to programm, and keen to contribute in open source.
-I am fond of exploring new technologies and implementing them and love to share whatever i learn to the open community.
+I am Rambabu Patidar, I am ReactJS developer and learning NextJS, TypeScript and building projects. I also love to solve DSA questions to improve problem solving skills and OOPS(Object Oriented Programming).
+I am fond of exploring new technologies and implementing them and love to share whatever I learn to the open community. Currently I am in my final year at JEC Jabalpur.
 
 Let's Make this world a better place for humankind.
 
